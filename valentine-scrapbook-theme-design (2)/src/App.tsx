@@ -16,7 +16,7 @@ import EntrancePage from "./EntrancePage";
 // 🔽 CHANGE THESE IMPORTS to point to your own image files:
 import headerImg from "./images/Headerr.jpeg";
 import photo1Img from "./images/Hug.jpeg";
-import photo2Img from "./images/kiss.jpeg";
+import photo2Img from "./images/kiss.png";
 
 /* You can also change the text below */
 const SUBTITLE_TEXT = "2 years together";
