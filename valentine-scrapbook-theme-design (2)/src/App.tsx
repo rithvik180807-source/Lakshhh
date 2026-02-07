@@ -14,7 +14,7 @@ import EntrancePage from "./EntrancePage";
    ═══════════════════════════════════════════════════ */
 
 // 🔽 CHANGE THESE IMPORTS to point to your own image files:
-import headerImg from "./images/Header.jpeg";
+import headerImg from "./images/Headerr.jpeg";
 import photo1Img from "./images/Hug.jpeg";
 import photo2Img from "./images/kiss.jpeg";
 
