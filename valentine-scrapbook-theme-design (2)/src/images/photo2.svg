@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <rect width="400" height="500" fill="#aaa"/>
+
+  <!-- Sky -->
+  <rect width="400" height="220" fill="#999"/>
+
+  <!-- Trees -->
+  <ellipse cx="60" cy="120" rx="50" ry="70" fill="#777" opacity="0.6"/>
+  <rect x="55" y="180" width="10" height="60" fill="#666"/>
+  <ellipse cx="350" cy="130" rx="45" ry="65" fill="#777" opacity="0.6"/>
+  <rect x="345" y="185" width="10" height="55" fill="#666"/>
+  <ellipse cx="180" cy="100" rx="35" ry="50" fill="#777" opacity="0.4"/>
+  <rect x="176" y="145" width="8" height="75" fill="#666" opacity="0.5"/>
+
+  <!-- Path / ground -->
+  <rect x="0" y="220" width="400" height="280" fill="#b0b0b0"/>
+  <ellipse cx="200" cy="480" rx="250" ry="60" fill="#a0a0a0"/>
+
+  <!-- Person 1 -->
+  <circle cx="175" cy="240" r="38" fill="#777"/>
+  <ellipse cx="160" cy="225" rx="42" ry="32" fill="#555"/>
+  <ellipse cx="170" cy="350" rx="45" ry="80" fill="#666"/>
+  <rect x="152" y="420" width="14" height="50" fill="#555"/>
+  <rect x="174" y="420" width="14" height="50" fill="#555"/>
+
+  <!-- Person 2 leaning into person 1 -->
+  <circle cx="240" cy="235" r="38" fill="#888"/>
+  <ellipse cx="255" cy="220" rx="42" ry="32" fill="#4a4a4a"/>
+  <ellipse cx="235" cy="345" rx="45" ry="80" fill="#777"/>
+  <rect x="218" y="415" width="14" height="50" fill="#666"/>
+  <rect x="240" y="415" width="14" height="50" fill="#666"/>
+
+  <!-- Holding hands -->
+  <line x1="200" y1="330" x2="218" y2="328" stroke="#888" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Light -->
+  <circle cx="200" cy="300" r="120" fill="rgba(255,255,255,0.06)"/>
+</svg>
